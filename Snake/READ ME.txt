@@ -1,0 +1,14 @@
+Dear all,
+This is the classic snake game which I used to play on my father's Nokia phone back in the days.
+This application is based on Turtle library.
+
+main.py       - compiling the codes from library and supporting files
+food.py       - contains code for food pellets
+snake.py      - contains the code for snake and its growth upon eating the food
+scoreboard.py - displays the score of the user
+
+start_screen.jpg   - screenshot of the game opening
+in_game_screen.jpg - screenshot of the game while in progress
+game_over.jpg	   - screenshot of the game ending
+
+Thank you for viewing my code.
