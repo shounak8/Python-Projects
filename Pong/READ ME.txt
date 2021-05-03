@@ -1,0 +1,12 @@
+This project covers the game PONG.
+It is a game created in Python using the Turtle Library in PyCharm.
+
+The Environment is spread across 5 different files:
+1. main.py 	- consists the main file which compiles the codes
+2. paddleOOP.py - consists of code which handles the 2 paddles 
+3. ball.py 	- consists of code that configures the movement of the ball
+4. screen.py	- consists of code that designs the background and environment of the pong game
+5. scoreboard	- this file consists code that keeps track of score
+
+
+created by: Shounak Deshpande
