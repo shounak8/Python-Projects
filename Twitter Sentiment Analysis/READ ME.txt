@@ -1,0 +1,18 @@
+This project gives the Sentiment Analysis of Tweets for a given subject.
+
+This is a Natural Processing Language project.
+For accessing data, Twitter credentials are acquired. For safety reason, I have not uploaded the credentials file.
+However, you can acquire the Twitter Developer credentials for your own as well on Twitter website.
+
+After analysing the tweets for a given topic, the program writes an Excel file in the given folder for the user to view the data in detail.
+
+Files:
+1.	    Twitter Sentiment Analysis.ipynb  -  iPython file (Jupyter Notebook) containing the full code
+2.   tweet analysis of Bengal Elections.xlsx  -  example 1 which analyses people sentiment over Bengal elections 2021
+3. tweet analysis of rising covid cases.xlsx  -  example 1 which analyses people sentiment over rising covid cases
+
+
+Thank you.
+
+Regards,
+Shounak Deshpande
