@@ -1,0 +1,15 @@
+This is a turtle race simulator built using the turtle library.
+The races consists of 7 turtles which are colored on 7 colors of rainbow.
+
+Files:
+main.py 	   - contains full code for the race execution
+start_screen.py    - screen displayed at start of the race
+in_game.py	   - screenshot of the race
+end_game_screen.py - screen displayed at end of the race
+
+
+Thank you for viewing the code.
+
+
+Regards,
+Shounak Deshpande
